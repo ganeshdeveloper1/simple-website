@@ -478,6 +478,22 @@
             width: 354px;
             margin-left: 52px;
         }
+        .carousel {
+            width: 600px;
+            height: 550px;
+            background: #ddd;
+            overflow: hidden;
+            border-radius: 7px;
+            background: fixed;
+        }
+        .carousel-container {
+            width: 600px;
+            height: 600px;
+            margin: auto;
+            border: 1px solid #777;
+            margin-top: 26px;
+            border-radius: 8px;
+        }
     }
     
     @media only screen and (max-width:768px) {
